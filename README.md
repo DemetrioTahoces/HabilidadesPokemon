@@ -1,5 +1,5 @@
 # Aplicacion para obtener habilidades pokemon
 
-ejecutar:    npm insertFinalNewline
+ejecutar:    npm install
 
 ejemplo:   node app -p "squirtle"
